@@ -1,2 +1,2 @@
 # DSGRec
-Dual-path selection graph for multimodal recommendation
+try to open https://github.com/gustab77/DSGRec/tree/master
